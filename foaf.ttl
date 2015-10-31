@@ -8,14 +8,14 @@
 	foaf:givenname "Pablo" ;
 	foaf:family_name "Pauli" ;
 	foaf:nick "Pulpo" ;
-	foaf:mbox <mailto:pabloagustinpauli@gmail.com> ;
+	foaf:birthday "06-08" ;
+	foaf:age "25" ;
 	foaf:homepage <https://www.facebook.com/Pulpo.Pauli> ;
 	foaf:depiction <https://www.facebook.com/photo.php?> ;
 	foaf:phone <tel:+5491167508950> ;
+	foaf:mbox <mailto:pabloagustinpauli@gmail.com> ;
 	foaf:workplaceHomepage <http://corporate.exxonmobil.com> ;
 	foaf:schoolHomepage <http://www.itba.edu.ar/> ;
-	foaf:birthday "06-08" ;
-	foaf:age "25" ;
 	foaf:gender "Male" ;
 	foaf:knows _:juan ,
 			   _:santiago .
