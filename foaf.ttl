@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
-<https://www.linkedin.com/pub/juan-martin-buireo/90/805/40b> a foaf:Person ;
+<https://ar.linkedin.com/pub/pablo-pauli/57/588/542> a foaf:Person ;
 	foaf:name "Pablo Agustin Pauli" ;
 	foaf:title "Sr" ;
 	foaf:givenname "Pablo" ;
@@ -20,9 +20,9 @@
 	foaf:knows _:juan ,
 			   _:santiago .
 
-<https://www.linkedin.com/pub/juan-martin-buireo/90/805/40b> 
-	foaf:interest <http://musicbrainz.org/artist/163218c2-9e0f-4d2d-aecb-ebbdef6aab70> ,
-				  <http://musicbrainz.org/artist/170d6637-36e0-49dd-a225-c4fd5b77a285> .
+<https://ar.linkedin.com/pub/pablo-pauli/57/588/542> 
+	foaf:interest <http://musicbrainz.org/artist/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432> ,
+				  <http://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234> .
 
 
 _:juan a foaf:Person ;
